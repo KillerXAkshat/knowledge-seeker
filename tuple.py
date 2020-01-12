@@ -1,0 +1,6 @@
+a=('Abhisek',100,[23,45,78],50,'Pathak')
+print(a[2][1])
+b=('Anirudh',69)
+print(b[1])
+print(a+b)
+print(a[1:4])
