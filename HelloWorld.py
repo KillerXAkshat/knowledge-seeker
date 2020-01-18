@@ -1,5 +1,5 @@
 print('Hello World')
-print(1+7)
+print(1+68)
 print(7*6)
 print()
-print("The End","Me Abhishek","The Great",5)
+print("The End","Me Abhishek","The bisi",5)
